@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47b59533-6e38-44ac-bc31-c5dbf159adc2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Riflettore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Enigma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Enigma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rotore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rotore.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +49,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -80,7 +84,12 @@
       <workItem from="1644686152010" duration="67000" />
       <workItem from="1645636322003" duration="617000" />
       <workItem from="1645637006672" duration="2285000" />
-      <workItem from="1645639755014" duration="1263000" />
+      <workItem from="1645639755014" duration="1651000" />
+      <workItem from="1645686682413" duration="247000" />
+      <workItem from="1645697651514" duration="859000" />
+      <workItem from="1645702036970" duration="2091000" />
+      <workItem from="1645719452249" duration="1177000" />
+      <workItem from="1645720796608" duration="5542000" />
     </task>
     <servers />
   </component>
