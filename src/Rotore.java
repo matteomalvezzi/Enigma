@@ -10,6 +10,8 @@ public class Rotore {
     private ArrayList<Character> ALPHABET_AL;
     public char[] dx = {};
     public char[] sx = {};
+    public ArrayList<Character> ar_dx;
+    public ArrayList<Character> ar_sx;
     public int begin_index;
 
     /**
@@ -26,6 +28,9 @@ public class Rotore {
         //Shifto l'array in modo tale che la lettera di partenza sia la prima
         this.setBegin(this.dx, this.dx.length-begin_index);
         this.setBegin(this.sx, this.sx.length-begin_index);
+        //Metto i due array in dx e sx trasformati in ArrayList
+        this.ar_dx = arrayToArrayList(this.dx);
+        this.ar_sx = arrayToArrayList(this.sx);
     }
 
     /**
