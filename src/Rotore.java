@@ -80,4 +80,31 @@ public class Rotore {
         }
     }
 
+    public void ShiftToRight(int n){
+        //Shift dx
+        for(int i = 0; i < n; i++){
+            int j;
+            char last;
+            last = dx[dx.length-1];
+
+            for(j = dx.length-1; j > 0; j--){
+                dx[j] = dx[j-1];
+            }
+            dx[0] = last;
+        }
+        //Shift sx
+        for(int i = 0; i < n; i++){
+            int j;
+            char last;
+            last = sx[sx.length-1];
+
+            for(j = sx.length-1; j > 0; j--){
+                sx[j] = sx[j-1];
+            }
+            sx[0] = last;
+        }
+        this.ar_dx = arrayToArrayList(this.dx);
+        this.ar_sx = arrayToArrayList(this.sx);
+    }
+
 }

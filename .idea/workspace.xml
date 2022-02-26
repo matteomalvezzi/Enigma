@@ -4,7 +4,6 @@
     <list default="true" id="47b59533-6e38-44ac-bc31-c5dbf159adc2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Enigma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Enigma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Riflettore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Riflettore.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Rotore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rotore.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +90,8 @@
       <workItem from="1645719452249" duration="1177000" />
       <workItem from="1645720796608" duration="5618000" />
       <workItem from="1645772900206" duration="1054000" />
-      <workItem from="1645808364121" duration="3025000" />
+      <workItem from="1645808364121" duration="3096000" />
+      <workItem from="1645859324739" duration="4386000" />
     </task>
     <servers />
   </component>
